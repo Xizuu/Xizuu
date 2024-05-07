@@ -7,8 +7,9 @@ Seorang mahasiswa yang mencoba mempelajari bahasa pemrograman secara otodidak
 Melakukan banyak hal Minecraft, dan juga melakukan banyak hal pemrograman.
 
 - **PHP**: Saya menggunakan bahasa pemrograman PHP sebagai bahasa pemrograman utama yang saya pelajari
-- **Java & Kotlin**: Saya menggunakan bahasa pemrograman Java & Kotlin sebagai bahasa pemrograman sampingan yang saya pelajari
+- **Java & Kotlin**: Saya menggunakan bahasa pemrograman [Java](https://www.java.com/en/) & [Kotlin](https://kotlinlang.org/) sebagai bahasa pemrograman sampingan yang saya pelajari
 - **JavaScript**: Saya menggunakan framework [React](https://react.dev/) dan [React Native](https://reactnative.dev/) untuk membangun sebuah website dan aplikasi sederhana
+- **Python**:  Saya menggunakan [Python](https://www.python.org/) untuk mengerjakan beberapa tugas di kampus
 - **Windows**: Saya menggunakan Windows 11
 - **Samsung**: Saya menggunakan Samsung A05
 - **JetBrains**: Saya menggunakan produk JetBrains untuk pengembangan saya. [PhpStorm](https://www.jetbrains.com/phpstorm/), [Intellij IDEA](https://www.jetbrains.com/idea/) [WebStorm](https://www.jetbrains.com/webstorm/) [PyCharm](https://www.jetbrains.com/pycharm/).
