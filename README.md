@@ -12,7 +12,7 @@ Melakukan banyak hal Minecraft, dan juga melakukan banyak hal pemrograman.
 - **Python**:  Saya menggunakan [Python](https://www.python.org/) untuk mengerjakan beberapa tugas di kampus
 - **Windows**: Saya menggunakan Windows 11
 - **Samsung**: Saya menggunakan Samsung A05
-- **JetBrains**: Saya menggunakan produk JetBrains untuk pengembangan saya. [PhpStorm](https://www.jetbrains.com/phpstorm/), [Intellij IDEA](https://www.jetbrains.com/idea/) [WebStorm](https://www.jetbrains.com/webstorm/) [PyCharm](https://www.jetbrains.com/pycharm/).
+- **JetBrains**: Saya menggunakan produk JetBrains untuk pengembangan saya. [PhpStorm](https://www.jetbrains.com/phpstorm/), [Intellij IDEA](https://www.jetbrains.com/idea/), [WebStorm](https://www.jetbrains.com/webstorm/), [PyCharm](https://www.jetbrains.com/pycharm/).
 
 ### Proyek saya
 - [LoginForm](https://github.com/Xizuu/LoginForm) - Sebuah website sederhana yang dibuat untuk melakukan login dan register
