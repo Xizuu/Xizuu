@@ -10,7 +10,7 @@ Melakukan banyak hal Minecraft, dan juga melakukan banyak hal pemrograman.
 - **Java & Kotlin**: Saya menggunakan bahasa pemrograman Java & Kotlin sebagai bahasa pemrograman sampingan yang saya pelajari
 - **Windows**: Saya menggunakan Windows 11
 - **Oppo**: Saya menggunakan Oppo A5s
-- **JetBrains**: Saya menggunakan produk JetBrains untuk pengembangan saya. [PhpStorm](https://www.jetbrains.com/phpstorm/), [Intellij IDEA](https://www.jetbrains.com/idea/).
+- **JetBrains**: Saya menggunakan produk JetBrains untuk pengembangan saya. [PhpStorm](https://www.jetbrains.com/phpstorm/), [Intellij IDEA](https://www.jetbrains.com/idea/) [WebStorm](https://www.jetbrains.com/webstorm/) [PyCharm](https://www.jetbrains.com/pycharm/).
 
 ### Proyek saya
 - [LoginForm](https://github.com/Xizuu/LoginForm) - Sebuah website sederhana yang dibuat untuk melakukan login dan register
