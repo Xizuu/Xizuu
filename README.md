@@ -18,6 +18,7 @@ Melakukan banyak hal Minecraft, dan juga melakukan banyak hal pemrograman.
 - [LoginForm](https://github.com/Xizuu/LoginForm) - Sebuah website sederhana yang dibuat untuk melakukan login dan register
 - [QRCode-Creator](https://github.com/Xizuu/QRCode-Creator) - Sebuah website sederhana yang digunakan untuk membuat link QRCode
 - [Hitung Besaran Diskon](https://gist.github.com/Xizuu/Hitung.java) - Program yang Saya buat untuk memenuhi tugas Algoritma dan Pemrograman
+- [py-qrcode](https://github.com/Xizuu/py-qrcode) - Sebuah program Python sederhana untuk membuat qrcode
 
 ### Kontak saya
 - Email: me@raihanpratama.xyz
