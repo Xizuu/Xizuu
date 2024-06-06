@@ -1,5 +1,7 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Xizuu&theme=vue&show_icons=true&count_private=true&include_all_commits=true" align="right"/>
 
+<img src="https://profile-counter.glitch.me/Xizuu/count.svg">
+
 ### Hello there..👋
 
 Seorang mahasiswa yang mencoba mempelajari bahasa pemrograman secara otodidak
