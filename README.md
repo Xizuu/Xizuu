@@ -1,28 +1,18 @@
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Xizuu&theme=vue&show_icons=true&count_private=true&include_all_commits=true" align="right"/>
 
-<img src="https://profile-counter.glitch.me/Xizuu/count.svg">
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Metero JS](https://img.shields.io/badge/meteorjs-%23d74c4c.svg?style=for-the-badge&logo=meteor&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Xizuu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Xizuu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xizuu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Hello there..👋
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Xizuu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-Seorang mahasiswa yang mencoba mempelajari bahasa pemrograman secara otodidak
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Xizuu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-Melakukan banyak hal Minecraft, dan juga melakukan banyak hal pemrograman.
+---
+[![](https://visitcount.itsvg.in/api?id=Xizuu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- **PHP**: Saya menggunakan bahasa pemrograman PHP sebagai bahasa pemrograman utama yang saya pelajari
-- **Java & Kotlin**: Saya menggunakan bahasa pemrograman [Java](https://www.java.com/en/) & [Kotlin](https://kotlinlang.org/) sebagai bahasa pemrograman sampingan yang saya pelajari
-- **JavaScript**: Saya menggunakan framework [React](https://react.dev/) dan [React Native](https://reactnative.dev/) untuk membangun sebuah website dan aplikasi sederhana
-- **Python**:  Saya menggunakan [Python](https://www.python.org/) untuk mengerjakan beberapa tugas di kampus
-- **Windows**: Saya menggunakan Windows 11
-- **Samsung**: Saya menggunakan Samsung A05
-- **JetBrains**: Saya menggunakan produk JetBrains untuk pengembangan saya. [PhpStorm](https://www.jetbrains.com/phpstorm/), [Intellij IDEA](https://www.jetbrains.com/idea/), [WebStorm](https://www.jetbrains.com/webstorm/), [PyCharm](https://www.jetbrains.com/pycharm/).
-
-### Proyek saya
-- [LoginForm](https://github.com/Xizuu/LoginForm) - Sebuah website sederhana yang dibuat untuk melakukan login dan register
-- [QRCode-Creator](https://github.com/Xizuu/QRCode-Creator) - Sebuah website sederhana yang digunakan untuk membuat link QRCode
-- [Hitung Besaran Diskon](https://gist.github.com/Xizuu/Hitung.java) - Program yang Saya buat untuk memenuhi tugas Algoritma dan Pemrograman
-- [py-qrcode](https://github.com/Xizuu/py-qrcode) - Sebuah program Python sederhana untuk membuat qrcode
-
-### Kontak saya
-- Email: me@raihanpratama.xyz
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Xizuu&hide=shell,css,nsis&layout=compact"/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
